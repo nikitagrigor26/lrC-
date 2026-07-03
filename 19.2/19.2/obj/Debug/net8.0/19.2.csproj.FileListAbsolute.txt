@@ -1,0 +1,14 @@
+E:\Практика\19\19.2\19.2\bin\Debug\net8.0\19.2.exe
+E:\Практика\19\19.2\19.2\bin\Debug\net8.0\19.2.deps.json
+E:\Практика\19\19.2\19.2\bin\Debug\net8.0\19.2.runtimeconfig.json
+E:\Практика\19\19.2\19.2\bin\Debug\net8.0\19.2.dll
+E:\Практика\19\19.2\19.2\bin\Debug\net8.0\19.2.pdb
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\19.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\19.2.AssemblyInfoInputs.cache
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\19.2.AssemblyInfo.cs
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\19.2.csproj.CoreCompileInputs.cache
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\19.2.dll
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\refint\19.2.dll
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\19.2.pdb
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\19.2.genruntimeconfig.cache
+E:\Практика\19\19.2\19.2\obj\Debug\net8.0\ref\19.2.dll

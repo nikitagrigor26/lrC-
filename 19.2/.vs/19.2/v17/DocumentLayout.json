@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|solutionrelative:19.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\caloriefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|solutionrelative:19.2\\caloriefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\calculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|solutionrelative:19.2\\calculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\ibodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|solutionrelative:19.2\\ibodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\bodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219719B-DF46-4DDC-AC76-DF481E968A11}|19.2\\19.2.csproj|solutionrelative:19.2\\bodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalorieFacade.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\CalorieFacade.cs",
+              "RelativeDocumentMoniker": "19.2\\CalorieFacade.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\CalorieFacade.cs",
+              "RelativeToolTip": "19.2\\CalorieFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:33:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculators.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\Calculators.cs",
+              "RelativeDocumentMoniker": "19.2\\Calculators.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\Calculators.cs",
+              "RelativeToolTip": "19.2\\Calculators.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:32:15.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BodyType.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\BodyType.cs",
+              "RelativeDocumentMoniker": "19.2\\BodyType.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\BodyType.cs",
+              "RelativeToolTip": "19.2\\BodyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:31:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBodyType.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\IBodyType.cs",
+              "RelativeDocumentMoniker": "19.2\\IBodyType.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\IBodyType.cs",
+              "RelativeToolTip": "19.2\\IBodyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:31:03.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\Program.cs",
+              "RelativeDocumentMoniker": "19.2\\Program.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.2\\19.2\\Program.cs",
+              "RelativeToolTip": "19.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:19:12.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
