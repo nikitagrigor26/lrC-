@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\toyotasedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\toyotasedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\isuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\isuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\fordsedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\fordsedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\fordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\fordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\fordsuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\fordsuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\toyotafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\toyotafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\toyotasuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\toyotasuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\isedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31969568-38C9-4FE1-A541-AC475A7CC59C}|19.1\\19.1.csproj|solutionrelative:19.1\\isedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FordFactory.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\FordFactory.cs",
+              "RelativeDocumentMoniker": "19.1\\FordFactory.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\FordFactory.cs",
+              "RelativeToolTip": "19.1\\FordFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:13:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FordSUV.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\FordSUV.cs",
+              "RelativeDocumentMoniker": "19.1\\FordSUV.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\FordSUV.cs",
+              "RelativeToolTip": "19.1\\FordSUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:13:17.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FordSedan.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\FordSedan.cs",
+              "RelativeDocumentMoniker": "19.1\\FordSedan.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\FordSedan.cs",
+              "RelativeToolTip": "19.1\\FordSedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:12:57.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToyotaFactory.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ToyotaFactory.cs",
+              "RelativeDocumentMoniker": "19.1\\ToyotaFactory.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ToyotaFactory.cs",
+              "RelativeToolTip": "19.1\\ToyotaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:12:33.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToyotaSUV.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ToyotaSUV.cs",
+              "RelativeDocumentMoniker": "19.1\\ToyotaSUV.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ToyotaSUV.cs",
+              "RelativeToolTip": "19.1\\ToyotaSUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:12:07.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToyotaSedan.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ToyotaSedan.cs",
+              "RelativeDocumentMoniker": "19.1\\ToyotaSedan.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ToyotaSedan.cs",
+              "RelativeToolTip": "19.1\\ToyotaSedan.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:11:32.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICarFactory.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ICarFactory.cs",
+              "RelativeDocumentMoniker": "19.1\\ICarFactory.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ICarFactory.cs",
+              "RelativeToolTip": "19.1\\ICarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:11:03.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISUV.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ISUV.cs",
+              "RelativeDocumentMoniker": "19.1\\ISUV.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ISUV.cs",
+              "RelativeToolTip": "19.1\\ISUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:10:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISedan.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ISedan.cs",
+              "RelativeDocumentMoniker": "19.1\\ISedan.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\ISedan.cs",
+              "RelativeToolTip": "19.1\\ISedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:09:54.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\Program.cs",
+              "RelativeDocumentMoniker": "19.1\\Program.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\19\\19.1\\19.1\\Program.cs",
+              "RelativeToolTip": "19.1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T19:05:32.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
